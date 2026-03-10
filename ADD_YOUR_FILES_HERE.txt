@@ -1,0 +1,6 @@
+Before deploying, add these two files to this folder:
+
+1. resume.pdf     → Your resume PDF (so the Resume button works)
+2. avatar.jpg     → Your profile photo (so it shows permanently on the site)
+
+Then drag the entire folder to vercel.com and deploy!
